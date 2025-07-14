@@ -7,8 +7,17 @@
 - as if your bookmarks are so varied
 -
 -
-- a chatbot AI makes proposal of
-  * nomad verse  adventures, in varied countries
+- database
+- user  : phone number, phone country, name,
+- social bookmarking : person, place, dish, country
+- plane tickets : city, country, user id 
+- number of stuff bookmarked, nuber of people bookmarked
+- no value in trips, people met,
+- social meda posts,
+- networkingsystem and tech application
+- valid emails, spam alerts
+- events, reviews of homes
+-     * nomad verse  adventures, in varied countries
   * 
 - 
 - in the welcome page you have got a plane ticket
